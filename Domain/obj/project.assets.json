@@ -1898,11 +1898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\Documents\\Visual Studio 2017\\Projects\\MyAirOpsLogger\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\steve\\Documents\\Visual Studio 2017\\Projects\\MyAirOpsLogger\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\Documents\\Visual Studio 2017\\Projects\\MyAirOpsLogger\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

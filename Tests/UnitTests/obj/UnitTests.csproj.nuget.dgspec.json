@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Web\\MyAirOpsLogger.csproj": {}
+    "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Tests\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
     "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\Domain.csproj": {
@@ -45,6 +45,93 @@
               "target": "Package",
               "version": "[1.6.1, )",
               "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Tests\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Tests\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Tests\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Tests\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Web\\MyAirOpsLogger.csproj": {
+                "projectPath": "C:\\Users\\steve\\Source\\Repos\\stephennield\\MyAirOps\\Web\\MyAirOpsLogger.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
