@@ -1,0 +1,17 @@
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\MyAirOpsLogger.deps.json
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\MyAirOpsLogger.runtimeconfig.json
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\MyAirOpsLogger.runtimeconfig.dev.json
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\MyAirOpsLogger.dll
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\MyAirOpsLogger.pdb
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.csprojAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.RazorAssemblyInfo.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.RazorAssemblyInfo.cs
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.AssemblyInfo.cs
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.RazorTargetAssemblyInfo.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.csproj.CopyComplete
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.dll
+C:\Users\steve\Documents\Visual Studio 2017\Projects\MyAirOpsLogger\obj\Debug\netcoreapp2.1\MyAirOpsLogger.pdb
